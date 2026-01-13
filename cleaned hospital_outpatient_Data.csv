@@ -1,0 +1,301 @@
+Visit_ID,Date,Department,Doctor_Name,Patient_Age,Gender,Symptoms,Diagnosis,Medicine_Cost,Consultation_Fee,Followup_Required,Visit_Duration,Total_Bill,High_Bill_Flag,Bill_Check,Age_Group
+V1170,2024-01-01,Cardiology,Dr. Ahmed,61.0,F,Allergy,Hypertension,1674.0,263.0,No,77,1937,Normal,1937.0,Senior
+V1221,2024-01-01,Cardiology,Dr. Ahmed,67.0,M,Fatigue,Migraine,764.0,359.0,Yes,62,1123,Normal,1123.0,Senior
+V1016,2024-01-01,Cardiology,Dr. Meena,48.0,F,Allergy,Fracture,1085.0,727.0,Yes,87,1812,Normal,1812.0,Middle Aged
+V1205,2024-01-03,Orthopedics,Dr. Meena,34.0,F,Unknown,Hypertension,1893.0,323.0,No,120,2216,High,2216.0,Young Adult
+V1212,2024-01-03,Orthopedics,Dr. Meena,29.0,F,Fever,Infection,1056.0,357.0,Yes,18,1413,Normal,1413.0,Young Adult
+V1033,2024-01-08,General,Dr. Banerjee,19.0,F,Pain,Migraine,1438.0,210.0,No,5,1648,Normal,1648.0,Young Adult
+V1156,2024-01-08,Ent,Dr. Rao,64.0,F,Fatigue,Migraine,775.0,708.0,Yes,110,1483,Normal,1483.0,Senior
+V1149,2024-01-10,Orthopedics,Dr. Meena,57.0,F,Fatigue,Hypertension,1065.0,260.0,Yes,56,1325,Normal,1325.0,Middle Aged
+V1050,2024-01-12,Orthopedics,Dr. Meena,63.0,F,Cough,Unknown,1199.0,661.0,No,18,1860,Normal,1860.0,Senior
+V1002,2024-01-14,Orthopedics,Dr. Rao,37.0,M,Pain,Hypertension,1165.0,298.0,No,74,1463,Normal,1463.0,Young Adult
+V1211,2024-01-14,Ent,Dr. Meena,46.0,M,Rash,Infection,1196.0,519.0,No,49,1715,Normal,1715.0,Middle Aged
+V1007,2024-01-17,Ent,Dr. Sharma,7.0,F,Headache,Infection,242.0,509.0,No,11,751,Normal,751.0,Minor
+V1241,2024-01-18,Dermatology,Dr. Ahmed,39.0,M,Rash,Fracture,908.0,135.0,No,96,1043,Normal,1043.0,Young Adult
+V1153,2024-01-20,Orthopedics,Dr. Meena,55.0,M,Fever,Hypertension,1265.0,737.0,No,30,2002,High,2002.0,Middle Aged
+V1130,2024-01-20,Ent,Dr. Sharma,11.0,F,Pain,Flu,802.0,567.0,No,14,1369,Normal,1369.0,Minor
+V1279,2024-01-26,Ent,Dr. Ahmed,10.0,M,Fever,Infection,1166.0,469.0,Yes,90,2131,High,1635.0,Minor
+V1034,2024-01-28,Cardiology,Dr. Rao,36.0,F,Headache,Flu,1805.0,746.0,Yes,112,2551,High,2551.0,Young Adult
+V1005,2024-01-29,Cardiology,Dr. Ahmed,46.0,M,Fatigue,Infection,1896.0,522.0,No,111,2418,High,2418.0,Middle Aged
+V1000,2024-01-30,Ent,Dr. Sharma,10.0,M,Allergy,Infection,868.0,535.0,Yes,37,1403,Normal,1403.0,Minor
+V1127,2024-01-31,Ent,Dr. Sharma,32.0,M,Headache,Flu,1713.0,748.0,No,14,2461,High,2461.0,Young Adult
+V1190,2024-02-03,General,Dr. Ahmed,29.0,M,Fever,Flu,1222.0,567.0,Yes,48,1789,Normal,1789.0,Young Adult
+V1225,2024-02-04,Dermatology,Dr. Sharma,46.0,M,Fatigue,Flu,842.0,260.0,Yes,95,1102,Normal,1102.0,Middle Aged
+V1187,2024-02-05,General,Dr. Sharma,62.0,M,Unknown,Unknown,1890.0,408.0,No,7,2298,High,2298.0,Senior
+V1270,2024-02-07,Cardiology,Dr. Sharma,30.0,F,Fatigue,Flu,535.0,292.0,No,107,827,Normal,827.0,Young Adult
+V1077,2024-02-08,Dermatology,Dr. Banerjee,56.0,F,Cough,Flu,961.0,174.0,Yes,43,1135,Normal,1135.0,Middle Aged
+V1185,2024-02-09,Dermatology,Dr. Rao,19.0,F,Cough,Fracture,1166.0,153.0,No,73,1254,Normal,1319.0,Young Adult
+V1261,2024-02-10,Ent,Dr. Meena,62.0,M,Cough,Migraine,846.0,220.0,Yes,34,1066,Normal,1066.0,Senior
+V1057,2024-02-11,Ent,Dr. Rao,46.0,M,Fatigue,Migraine,1489.0,597.0,No,97,2086,High,2086.0,Middle Aged
+V1179,2024-02-11,Dermatology,Dr. Sharma,10.0,F,Allergy,Flu,912.0,450.0,Yes,91,1362,Normal,1362.0,Minor
+V1288,2024-02-11,Ent,Dr. Meena,78.0,M,Allergy,Flu,791.0,394.0,Yes,65,1185,Normal,1185.0,Senior
+V1299,2024-02-12,General,Dr. Banerjee,56.0,F,Allergy,Fracture,423.0,316.0,No,12,739,Normal,739.0,Middle Aged
+V1244,2024-02-13,Dermatology,Dr. Sharma,12.0,M,Allergy,Hypertension,1553.0,139.0,No,54,1692,Normal,1692.0,Minor
+V1256,2024-02-17,General,Dr. Sharma,80.0,F,Fever,Flu,1805.0,130.0,Yes,25,1935,Normal,1935.0,Senior
+V1284,2024-02-17,Cardiology,Dr. Sharma,73.0,F,Cough,Migraine,1430.0,686.0,No,28,2116,High,2116.0,Senior
+V1296,2024-02-17,Dermatology,Dr. Ahmed,44.0,M,Pain,Infection,1461.0,542.0,Yes,99,2003,High,2003.0,Middle Aged
+V1262,2024-02-18,Ent,Dr. Ahmed,67.0,M,Fever,Fracture,1106.0,596.0,Yes,53,1702,Normal,1702.0,Senior
+V1191,2024-02-19,General,Dr. Meena,71.0,F,Fatigue,Fracture,1070.0,294.0,Yes,9,1364,Normal,1364.0,Senior
+V1210,2024-02-22,Ent,Dr. Ahmed,7.0,F,Rash,Infection,1072.0,146.0,No,39,1218,Normal,1218.0,Minor
+V1293,2024-02-22,Dermatology,Dr. Sharma,55.0,F,Rash,Flu,1493.0,288.0,Yes,33,1781,Normal,1781.0,Middle Aged
+V1208,2024-02-24,Dermatology,Dr. Rao,18.0,M,Pain,Infection,953.0,756.0,No,17,1709,Normal,1709.0,Minor
+V1231,2024-02-24,General,Dr. Rao,54.0,M,Headache,Migraine,1796.0,580.0,No,27,2376,High,2376.0,Middle Aged
+V1101,2024-02-25,Cardiology,Dr. Rao,69.0,M,Cough,Fracture,1292.0,584.0,Yes,85,1876,Normal,1876.0,Senior
+V1219,2024-02-26,Dermatology,Dr. Sharma,7.0,F,Fatigue,Hypertension,1206.0,503.0,Yes,74,1709,Normal,1709.0,Minor
+V1220,2024-02-27,Ent,Dr. Rao,68.0,F,Unknown,Migraine,1594.0,758.0,Yes,85,2352,High,2352.0,Senior
+V1082,2024-02-27,Ent,Dr. Meena,60.0,F,Pain,Flu,1372.0,582.0,Yes,41,1954,Normal,1954.0,Middle Aged
+V1151,2024-02-28,Orthopedics,Dr. Sharma,46.0,M,Pain,Migraine,1723.0,469.0,No,91,2294,High,2192.0,Middle Aged
+V1097,2024-02-28,Ent,Dr. Rao,81.0,F,Headache,Hypertension,1266.0,658.0,Yes,13,1924,Normal,1924.0,Senior
+V1159,2024-02-28,Cardiology,Dr. Rao,81.0,M,Unknown,Hypertension,963.0,155.0,No,53,1118,Normal,1118.0,Senior
+V1134,2024-03-02,Ent,Dr. Rao,54.0,F,Cough,Migraine,1471.0,677.0,No,8,2148,High,2148.0,Middle Aged
+V1145,2024-03-02,Dermatology,Dr. Ahmed,19.0,F,Rash,Hypertension,1874.0,743.0,No,61,2617,High,2617.0,Young Adult
+V1218,2024-03-03,Dermatology,Dr. Sharma,7.0,F,Pain,Fracture,910.0,384.0,No,111,1294,Normal,1294.0,Minor
+V1169,2024-03-04,General,Dr. Rao,66.0,F,Pain,Fracture,1637.0,781.0,No,97,2418,High,2418.0,Senior
+V1196,2024-03-08,Ent,Dr. Sharma,12.0,F,Pain,Migraine,374.0,389.0,No,73,763,Normal,763.0,Minor
+V1267,2024-03-10,Cardiology,Dr. Sharma,28.0,M,Cough,Unknown,763.0,413.0,No,87,1176,Normal,1176.0,Young Adult
+V1193,2024-03-10,Orthopedics,Dr. Banerjee,56.0,M,Rash,Infection,1494.0,734.0,Yes,72,2228,High,2228.0,Middle Aged
+V1118,2024-03-10,Orthopedics,Dr. Meena,76.0,M,Pain,Migraine,679.0,442.0,No,25,1121,Normal,1121.0,Senior
+V1061,2024-03-10,Ent,Dr. Ahmed,78.0,M,Fever,Hypertension,1065.0,493.0,Yes,60,1558,Normal,1558.0,Senior
+V1142,2024-03-10,Dermatology,Dr. Sharma,46.0,F,Fatigue,Migraine,955.0,677.0,No,103,1632,Normal,1632.0,Middle Aged
+V1083,2024-03-11,Ent,Dr. Meena,76.0,F,Headache,Hypertension,1786.0,686.0,Yes,110,2472,High,2472.0,Senior
+V1015,2024-03-11,Ent,Dr. Ahmed,51.0,M,Rash,Hypertension,990.0,441.0,Yes,60,1431,Normal,1431.0,Middle Aged
+V1226,2024-03-12,Orthopedics,Dr. Banerjee,32.0,M,Unknown,Fracture,1509.0,185.0,Yes,61,1694,Normal,1694.0,Young Adult
+V1009,2024-03-16,Dermatology,Dr. Rao,44.0,M,Pain,Flu,1651.0,342.0,No,13,1993,Normal,1993.0,Middle Aged
+V1233,2024-03-18,Cardiology,Dr. Meena,83.0,F,Headache,Fracture,1297.0,279.0,No,117,1576,Normal,1576.0,Senior
+V1238,2024-03-19,Orthopedics,Dr. Sharma,32.0,M,Rash,Infection,1722.0,159.0,No,95,1881,Normal,1881.0,Young Adult
+V1066,2024-03-19,General,Dr. Banerjee,46.0,F,Cough,Hypertension,641.0,715.0,No,68,1356,Normal,1356.0,Middle Aged
+V1146,2024-03-20,Cardiology,Dr. Sharma,82.0,F,Headache,Flu,239.0,540.0,Yes,82,779,Normal,779.0,Senior
+V1125,2024-03-23,Ent,Dr. Sharma,67.0,F,Fever,Flu,1688.0,346.0,No,8,2034,High,2034.0,Senior
+V1217,2024-03-23,Cardiology,Dr. Banerjee,52.0,M,Fatigue,Unknown,1176.0,391.0,No,112,1567,Normal,1567.0,Middle Aged
+V1108,2024-03-23,Orthopedics,Dr. Ahmed,53.0,M,Rash,Infection,975.0,540.0,No,89,1515,Normal,1515.0,Middle Aged
+V1099,2024-03-25,Cardiology,Dr. Ahmed,50.0,F,Fatigue,Infection,1976.0,360.0,Yes,37,2336,High,2336.0,Middle Aged
+V1043,2024-03-26,General,Dr. Rao,23.0,M,Pain,Hypertension,1571.0,558.0,No,6,2129,High,2129.0,Young Adult
+V1003,2024-03-26,Orthopedics,Dr. Ahmed,17.0,F,Cough,Migraine,331.0,566.0,Yes,23,897,Normal,897.0,Minor
+V1245,2024-03-27,Cardiology,Dr. Rao,73.0,M,Pain,Fracture,565.0,504.0,Yes,90,1069,Normal,1069.0,Senior
+V1243,2024-03-28,Cardiology,Dr. Banerjee,65.0,F,Allergy,Fracture,576.0,124.0,No,90,700,Normal,700.0,Senior
+V1249,2024-03-29,Dermatology,Dr. Ahmed,19.0,M,Fever,Infection,1166.0,103.0,No,81,1269,Normal,1269.0,Young Adult
+V1265,2024-03-30,Cardiology,Dr. Banerjee,44.0,F,Allergy,Flu,501.0,229.0,No,105,730,Normal,730.0,Middle Aged
+V1184,2024-04-02,Cardiology,Dr. Meena,56.0,M,Allergy,Infection,783.0,519.0,No,105,1302,Normal,1302.0,Middle Aged
+V1162,2024-04-06,Ent,Dr. Rao,31.0,F,Allergy,Infection,1783.0,798.0,Yes,31,2581,High,2581.0,Young Adult
+V1113,2024-04-07,Dermatology,Dr. Ahmed,15.0,M,Rash,Fracture,1166.0,313.0,No,75,1860,Normal,1479.0,Minor
+V1090,2024-04-09,General,Dr. Ahmed,77.0,M,Pain,Flu,1995.0,144.0,No,66,2139,High,2139.0,Senior
+V1148,2024-04-09,Dermatology,Dr. Sharma,13.0,F,Headache,Infection,1885.0,110.0,Yes,27,1995,Normal,1995.0,Minor
+V1068,2024-04-09,Orthopedics,Dr. Meena,84.0,F,Fever,Infection,1166.0,399.0,No,40,714,Normal,1565.0,Senior
+V1114,2024-04-11,Cardiology,Dr. Rao,61.0,F,Headache,Unknown,247.0,469.0,No,50,780,Normal,716.0,Senior
+V1180,2024-04-11,Orthopedics,Dr. Meena,12.0,M,Fever,Hypertension,1051.0,578.0,Yes,91,1629,Normal,1629.0,Minor
+V1297,2024-04-12,Orthopedics,Dr. Sharma,9.0,M,Cough,Migraine,226.0,208.0,No,5,434,Normal,434.0,Minor
+V1236,2024-04-13,Cardiology,Dr. Meena,76.0,F,Allergy,Infection,733.0,607.0,Yes,110,1340,Normal,1340.0,Senior
+V1181,2024-04-16,Ent,Dr. Meena,52.0,F,Headache,Unknown,1182.0,695.0,Yes,15,1877,Normal,1877.0,Middle Aged
+V1204,2024-04-16,Cardiology,Dr. Rao,80.0,F,Pain,Fracture,1362.0,513.0,No,55,1875,Normal,1875.0,Senior
+V1132,2024-04-17,General,Dr. Ahmed,46.0,M,Rash,Flu,1977.0,529.0,No,7,2506,High,2506.0,Middle Aged
+V1168,2024-04-18,General,Dr. Ahmed,63.0,M,Fatigue,Flu,1054.0,377.0,No,64,1431,Normal,1431.0,Senior
+V1053,2024-04-19,Cardiology,Dr. Rao,16.0,M,Fever,Migraine,647.0,317.0,No,19,964,Normal,964.0,Minor
+V1152,2024-04-22,Dermatology,Dr. Meena,72.0,F,Headache,Flu,1044.0,209.0,No,69,1253,Normal,1253.0,Senior
+V1295,2024-04-22,Orthopedics,Dr. Ahmed,55.0,M,Rash,Flu,247.0,132.0,No,68,379,Normal,379.0,Middle Aged
+V1255,2024-04-22,Ent,Dr. Ahmed,60.0,M,Fatigue,Infection,288.0,741.0,No,107,1029,Normal,1029.0,Middle Aged
+V1110,2024-04-22,Orthopedics,Dr. Banerjee,16.0,M,Allergy,Infection,487.0,196.0,No,96,683,Normal,683.0,Minor
+V1115,2024-04-24,Cardiology,Dr. Banerjee,18.0,M,Fever,Flu,1024.0,148.0,Yes,89,1172,Normal,1172.0,Minor
+V1054,2024-04-25,Dermatology,Dr. Sharma,11.0,M,Fatigue,Fracture,1239.0,263.0,Yes,35,1502,Normal,1502.0,Minor
+V1271,2024-04-25,Cardiology,Dr. Sharma,16.0,M,Headache,Hypertension,1690.0,429.0,No,117,2119,High,2119.0,Minor
+V1240,2024-04-26,Ent,Dr. Ahmed,46.0,F,Fatigue,Migraine,526.0,797.0,Yes,68,1323,Normal,1323.0,Middle Aged
+V1055,2024-04-26,Cardiology,Dr. Meena,51.0,F,Rash,Flu,1497.0,642.0,Yes,26,2139,High,2139.0,Middle Aged
+V1107,2024-04-27,Ent,Dr. Banerjee,56.0,M,Pain,Unknown,345.0,352.0,No,40,697,Normal,697.0,Middle Aged
+V1188,2024-04-29,Ent,Dr. Meena,26.0,M,Allergy,Migraine,309.0,332.0,No,102,641,Normal,641.0,Young Adult
+V1085,2024-04-29,Cardiology,Dr. Banerjee,48.0,F,Headache,Hypertension,409.0,515.0,Yes,24,924,Normal,924.0,Middle Aged
+V1032,2024-05-03,Ent,Dr. Sharma,77.0,F,Allergy,Migraine,1983.0,171.0,No,81,2154,High,2154.0,Senior
+V1207,2024-05-05,Orthopedics,Dr. Banerjee,85.0,F,Allergy,Migraine,1807.0,782.0,Yes,19,2589,High,2589.0,Senior
+V1166,2024-05-06,Cardiology,Dr. Banerjee,5.0,F,Cough,Infection,1950.0,346.0,No,71,2296,High,2296.0,Minor
+V1038,2024-05-07,Cardiology,Dr. Rao,19.0,M,Headache,Fracture,592.0,471.0,No,29,1063,Normal,1063.0,Young Adult
+V1263,2024-05-10,General,Dr. Meena,26.0,F,Fever,Fracture,1113.0,200.0,No,102,1313,Normal,1313.0,Young Adult
+V1112,2024-05-11,Ent,Dr. Meena,78.0,M,Pain,Fracture,1601.0,698.0,No,44,2299,High,2299.0,Senior
+V1018,2024-05-13,Ent,Dr. Rao,72.0,M,Unknown,Flu,1438.0,115.0,No,111,1553,Normal,1553.0,Senior
+V1183,2024-05-13,Dermatology,Dr. Rao,53.0,M,Headache,Migraine,301.0,327.0,Yes,88,628,Normal,628.0,Middle Aged
+V1197,2024-05-13,Ent,Dr. Sharma,46.0,M,Fatigue,Flu,828.0,134.0,No,101,962,Normal,962.0,Middle Aged
+V1025,2024-05-14,Cardiology,Dr. Meena,59.0,M,Fever,Hypertension,1693.0,427.0,No,19,2120,High,2120.0,Middle Aged
+V1105,2024-05-15,Ent,Dr. Meena,74.0,M,Allergy,Unknown,653.0,345.0,Yes,64,998,Normal,998.0,Senior
+V1172,2024-05-16,Ent,Dr. Meena,15.0,F,Headache,Flu,845.0,209.0,Yes,26,1054,Normal,1054.0,Minor
+V1091,2024-05-17,Cardiology,Dr. Rao,30.0,M,Headache,Unknown,235.0,295.0,No,64,530,Normal,530.0,Young Adult
+V1195,2024-05-19,Dermatology,Dr. Sharma,63.0,M,Rash,Infection,1513.0,253.0,No,15,1766,Normal,1766.0,Senior
+V1129,2024-05-21,General,Dr. Ahmed,45.0,M,Pain,Fracture,389.0,496.0,No,91,885,Normal,885.0,Middle Aged
+V1158,2024-05-23,Ent,Dr. Rao,75.0,F,Pain,Infection,358.0,544.0,No,13,902,Normal,902.0,Senior
+V1257,2024-05-23,Ent,Dr. Banerjee,5.0,F,Pain,Infection,585.0,415.0,No,61,1000,Normal,1000.0,Minor
+V1028,2024-05-24,Orthopedics,Dr. Meena,39.0,M,Headache,Migraine,977.0,595.0,Yes,17,1572,Normal,1572.0,Young Adult
+V1135,2024-05-24,Orthopedics,Dr. Banerjee,22.0,M,Headache,Infection,483.0,401.0,Yes,92,884,Normal,884.0,Young Adult
+V1042,2024-05-24,Ent,Dr. Rao,80.0,M,Pain,Migraine,640.0,450.0,No,95,1090,Normal,1090.0,Senior
+V1089,2024-05-26,Orthopedics,Dr. Sharma,10.0,M,Fever,Hypertension,1562.0,670.0,No,7,2232,High,2232.0,Minor
+V1104,2024-05-26,Orthopedics,Dr. Ahmed,78.0,F,Unknown,Hypertension,1355.0,451.0,Yes,115,1806,Normal,1806.0,Senior
+V1150,2024-05-27,General,Dr. Ahmed,19.0,M,Headache,Migraine,337.0,127.0,No,106,464,Normal,464.0,Young Adult
+V1041,2024-05-28,Orthopedics,Dr. Ahmed,81.0,F,Pain,Migraine,720.0,469.0,No,92,1204,Normal,1189.0,Senior
+V1116,2024-05-30,Cardiology,Dr. Meena,76.0,F,Cough,Hypertension,1166.0,459.0,Yes,93,2382,High,1625.0,Senior
+V1264,2024-05-30,Ent,Dr. Ahmed,70.0,M,Fatigue,Fracture,210.0,778.0,Yes,39,988,Normal,988.0,Senior
+V1167,2024-05-30,Dermatology,Dr. Banerjee,12.0,M,Fever,Fracture,523.0,122.0,Yes,57,645,Normal,645.0,Minor
+V1078,2024-06-02,Dermatology,Dr. Ahmed,36.0,F,Cough,Migraine,684.0,643.0,Yes,110,1327,Normal,1327.0,Young Adult
+V1253,2024-06-02,Dermatology,Dr. Rao,13.0,M,Rash,Fracture,1759.0,106.0,No,55,1865,Normal,1865.0,Minor
+V1222,2024-06-02,Orthopedics,Dr. Ahmed,52.0,M,Allergy,Flu,1276.0,456.0,Yes,87,1732,Normal,1732.0,Middle Aged
+V1269,2024-06-10,Dermatology,Dr. Rao,34.0,M,Cough,Migraine,1272.0,245.0,Yes,117,1517,Normal,1517.0,Young Adult
+V1086,2024-06-13,Dermatology,Dr. Sharma,46.0,M,Allergy,Migraine,324.0,449.0,Yes,22,773,Normal,773.0,Middle Aged
+V1080,2024-06-13,Orthopedics,Dr. Rao,40.0,F,Pain,Hypertension,1916.0,201.0,Yes,70,2117,High,2117.0,Young Adult
+V1133,2024-06-17,Dermatology,Dr. Sharma,33.0,F,Headache,Migraine,203.0,548.0,No,22,751,Normal,751.0,Young Adult
+V1070,2024-06-18,Orthopedics,Dr. Meena,61.0,F,Cough,Hypertension,971.0,354.0,Yes,40,1325,Normal,1325.0,Senior
+V1281,2024-06-19,Dermatology,Dr. Meena,76.0,F,Allergy,Hypertension,1011.0,225.0,Yes,30,1236,Normal,1236.0,Senior
+V1143,2024-06-21,General,Dr. Sharma,40.0,F,Pain,Infection,1948.0,309.0,No,14,2257,High,2257.0,Young Adult
+V1044,2024-06-21,Ent,Dr. Rao,84.0,F,Pain,Hypertension,1755.0,663.0,Yes,65,2418,High,2418.0,Senior
+V1069,2024-06-21,Cardiology,Dr. Sharma,53.0,F,Rash,Hypertension,315.0,575.0,Yes,36,890,Normal,890.0,Middle Aged
+V1103,2024-06-23,General,Dr. Banerjee,31.0,F,Fever,Fracture,242.0,166.0,Yes,70,408,Normal,408.0,Young Adult
+V1160,2024-06-23,Cardiology,Dr. Rao,75.0,M,Fatigue,Fracture,1727.0,240.0,No,90,1967,Normal,1967.0,Senior
+V1024,2024-06-28,Dermatology,Dr. Meena,81.0,M,Cough,Migraine,1832.0,411.0,No,101,2243,High,2243.0,Senior
+V1215,2024-06-28,Cardiology,Dr. Ahmed,6.0,F,Fatigue,Fracture,1533.0,612.0,No,36,2145,High,2145.0,Minor
+V1010,2024-06-28,Orthopedics,Dr. Meena,60.0,M,Allergy,Fracture,459.0,431.0,Yes,33,890,Normal,890.0,Middle Aged
+V1046,2024-06-29,Ent,Dr. Banerjee,24.0,F,Allergy,Infection,1483.0,690.0,Yes,36,2173,High,2173.0,Young Adult
+V1094,2024-06-30,Dermatology,Dr. Ahmed,68.0,M,Rash,Fracture,1010.0,640.0,No,79,1650,Normal,1650.0,Senior
+V1201,2024-07-03,Ent,Dr. Rao,39.0,M,Fatigue,Flu,386.0,707.0,Yes,22,1093,Normal,1093.0,Young Adult
+V1012,2024-07-03,Orthopedics,Dr. Ahmed,5.0,F,Headache,Migraine,1886.0,283.0,Yes,15,2169,High,2169.0,Minor
+V1058,2024-07-04,Ent,Dr. Rao,22.0,M,Fever,Fracture,1166.0,458.0,No,20,1624,Normal,1624.0,Young Adult
+V1022,2024-07-05,Orthopedics,Dr. Ahmed,28.0,F,Allergy,Infection,1096.0,628.0,No,66,1724,Normal,1724.0,Young Adult
+V1131,2024-07-06,Cardiology,Dr. Rao,62.0,F,Unknown,Hypertension,1808.0,371.0,No,60,2179,High,2179.0,Senior
+V1277,2024-07-06,Cardiology,Dr. Rao,84.0,M,Pain,Infection,611.0,163.0,Yes,44,774,Normal,774.0,Senior
+V1285,2024-07-06,Ent,Dr. Meena,73.0,M,Fatigue,Infection,718.0,477.0,No,100,1195,Normal,1195.0,Senior
+V1154,2024-07-08,Orthopedics,Dr. Ahmed,40.0,M,Headache,Migraine,1889.0,417.0,Yes,54,2306,High,2306.0,Young Adult
+V1174,2024-07-08,Ent,Dr. Ahmed,57.0,F,Headache,Hypertension,1742.0,126.0,No,67,1868,Normal,1868.0,Middle Aged
+V1060,2024-07-09,Dermatology,Dr. Meena,35.0,F,Pain,Fracture,1868.0,469.0,No,116,2292,High,2337.0,Young Adult
+V1206,2024-07-09,Ent,Dr. Meena,65.0,M,Allergy,Fracture,355.0,700.0,No,103,1055,Normal,1055.0,Senior
+V1237,2024-07-10,Ent,Dr. Meena,55.0,F,Allergy,Migraine,526.0,736.0,Yes,97,1262,Normal,1262.0,Middle Aged
+V1280,2024-07-11,Ent,Dr. Meena,60.0,M,Fever,Hypertension,1993.0,798.0,No,87,2791,High,2791.0,Middle Aged
+V1252,2024-07-11,Ent,Dr. Meena,74.0,F,Pain,Hypertension,1668.0,378.0,No,72,2046,High,2046.0,Senior
+V1292,2024-07-12,Ent,Dr. Banerjee,15.0,M,Cough,Flu,1271.0,707.0,No,34,1978,Normal,1978.0,Minor
+V1051,2024-07-14,General,Dr. Meena,46.0,M,Headache,Fracture,1870.0,415.0,Yes,50,2285,High,2285.0,Middle Aged
+V1004,2024-07-16,Cardiology,Dr. Rao,32.0,F,Headache,Hypertension,1265.0,658.0,No,100,1923,Normal,1923.0,Young Adult
+V1283,2024-07-17,Dermatology,Dr. Rao,33.0,F,Allergy,Flu,312.0,661.0,Yes,62,973,Normal,973.0,Young Adult
+V1036,2024-07-17,Ent,Dr. Rao,41.0,F,Fatigue,Fracture,372.0,335.0,Yes,50,707,Normal,707.0,Middle Aged
+V1106,2024-07-19,General,Dr. Sharma,27.0,F,Headache,Flu,1893.0,131.0,No,55,2024,High,2024.0,Young Adult
+V1230,2024-07-20,General,Dr. Ahmed,17.0,M,Fatigue,Migraine,1553.0,565.0,Yes,26,2118,High,2118.0,Minor
+V1087,2024-07-21,General,Dr. Meena,44.0,M,Allergy,Infection,455.0,320.0,No,113,775,Normal,775.0,Middle Aged
+V1071,2024-07-21,Ent,Dr. Meena,52.0,F,Allergy,Infection,1883.0,647.0,Yes,112,2530,High,2530.0,Middle Aged
+V1199,2024-07-21,Cardiology,Dr. Banerjee,36.0,M,Rash,Hypertension,1976.0,150.0,No,80,2126,High,2126.0,Young Adult
+V1138,2024-07-22,General,Dr. Ahmed,83.0,F,Pain,Hypertension,1166.0,650.0,Yes,112,1636,Normal,1816.0,Senior
+V1173,2024-07-23,General,Dr. Sharma,31.0,M,Allergy,Fracture,1166.0,720.0,No,109,2619,High,1886.0,Young Adult
+V1266,2024-07-23,Ent,Dr. Rao,21.0,F,Fatigue,Migraine,1166.0,345.0,No,84,1177,Normal,1511.0,Young Adult
+V1251,2024-07-25,Dermatology,Dr. Rao,37.0,F,Cough,Fracture,1559.0,488.0,No,80,2047,High,2047.0,Young Adult
+V1031,2024-07-27,Dermatology,Dr. Meena,5.0,F,Allergy,Migraine,1952.0,689.0,No,117,2641,High,2641.0,Minor
+V1298,2024-07-28,General,Dr. Meena,26.0,F,Fever,Unknown,572.0,322.0,Yes,20,894,Normal,894.0,Young Adult
+V1001,2024-07-31,Orthopedics,Dr. Sharma,54.0,M,Allergy,Infection,843.0,610.0,Yes,93,1453,Normal,1453.0,Middle Aged
+V1019,2024-07-31,Cardiology,Dr. Rao,65.0,F,Headache,Migraine,1909.0,469.0,Yes,50,2478,High,2378.0,Senior
+V1076,2024-08-02,Orthopedics,Dr. Banerjee,10.0,F,Allergy,Fracture,1697.0,463.0,Yes,117,2160,High,2160.0,Minor
+V1093,2024-08-02,Cardiology,Dr. Banerjee,44.0,M,Rash,Hypertension,1143.0,540.0,Yes,40,1683,Normal,1683.0,Middle Aged
+V1123,2024-08-07,General,Dr. Banerjee,60.0,M,Rash,Infection,1174.0,740.0,Yes,74,1914,Normal,1914.0,Middle Aged
+V1111,2024-08-07,Cardiology,Dr. Banerjee,68.0,F,Cough,Migraine,452.0,213.0,Yes,26,665,Normal,665.0,Senior
+V1186,2024-08-08,Ent,Dr. Ahmed,40.0,M,Rash,Flu,387.0,681.0,No,25,1068,Normal,1068.0,Young Adult
+V1178,2024-08-09,Orthopedics,Dr. Sharma,35.0,F,Rash,Infection,1293.0,558.0,No,31,1851,Normal,1851.0,Young Adult
+V1165,2024-08-12,General,Dr. Rao,29.0,M,Cough,Hypertension,1389.0,341.0,No,25,1730,Normal,1730.0,Young Adult
+V1109,2024-08-12,Orthopedics,Dr. Sharma,49.0,M,Fever,Migraine,1282.0,318.0,No,101,1600,Normal,1600.0,Middle Aged
+V1189,2024-08-13,General,Dr. Rao,53.0,M,Fatigue,Hypertension,1383.0,342.0,No,98,1725,Normal,1725.0,Middle Aged
+V1224,2024-08-13,General,Dr. Ahmed,22.0,F,Pain,Migraine,504.0,762.0,Yes,6,1266,Normal,1266.0,Young Adult
+V1049,2024-08-13,Ent,Dr. Sharma,21.0,M,Fever,Migraine,1893.0,511.0,No,107,2404,High,2404.0,Young Adult
+V1194,2024-08-13,Cardiology,Dr. Rao,46.0,M,Fever,Infection,1629.0,383.0,No,24,2012,High,2012.0,Middle Aged
+V1294,2024-08-13,Cardiology,Dr. Ahmed,73.0,M,Fatigue,Hypertension,1549.0,522.0,No,109,2071,High,2071.0,Senior
+V1072,2024-08-14,Ent,Dr. Banerjee,17.0,M,Headache,Unknown,1117.0,799.0,No,107,1916,Normal,1916.0,Minor
+V1246,2024-08-15,Ent,Dr. Ahmed,43.0,M,Headache,Hypertension,1954.0,565.0,No,100,2519,High,2519.0,Middle Aged
+V1182,2024-08-15,Dermatology,Dr. Meena,45.0,F,Fever,Flu,1522.0,181.0,No,68,1703,Normal,1703.0,Middle Aged
+V1011,2024-08-15,Ent,Dr. Banerjee,44.0,F,Cough,Infection,1667.0,492.0,No,47,2159,High,2159.0,Middle Aged
+V1119,2024-08-16,Ent,Dr. Banerjee,39.0,F,Fatigue,Hypertension,828.0,545.0,No,9,1373,Normal,1373.0,Young Adult
+V1290,2024-08-17,General,Dr. Banerjee,50.0,M,Allergy,Infection,577.0,671.0,No,9,1248,Normal,1248.0,Middle Aged
+V1161,2024-08-17,Cardiology,Dr. Rao,55.0,F,Rash,Flu,604.0,458.0,Yes,66,1062,Normal,1062.0,Middle Aged
+V1021,2024-08-19,Cardiology,Dr. Ahmed,75.0,M,Headache,Fracture,1123.0,239.0,Yes,41,1362,Normal,1362.0,Senior
+V1081,2024-08-22,Ent,Dr. Ahmed,24.0,M,Headache,Flu,1507.0,599.0,No,13,2106,High,2106.0,Young Adult
+V1065,2024-08-22,General,Dr. Banerjee,80.0,M,Allergy,Hypertension,1713.0,663.0,No,32,2376,High,2376.0,Senior
+V1213,2024-08-22,Ent,Dr. Sharma,59.0,F,Unknown,Fracture,666.0,788.0,Yes,97,1454,Normal,1454.0,Middle Aged
+V1216,2024-08-23,Cardiology,Dr. Ahmed,82.0,F,Allergy,Fracture,1999.0,115.0,No,59,2114,High,2114.0,Senior
+V1155,2024-08-23,General,Dr. Ahmed,60.0,M,Fatigue,Hypertension,411.0,698.0,No,44,1109,Normal,1109.0,Middle Aged
+V1013,2024-08-24,Cardiology,Dr. Meena,77.0,F,Pain,Infection,598.0,439.0,Yes,70,1037,Normal,1037.0,Senior
+V1276,2024-08-27,Dermatology,Dr. Meena,22.0,M,Pain,Fracture,1716.0,286.0,Yes,98,2002,High,2002.0,Young Adult
+V1073,2024-08-28,Ent,Dr. Ahmed,18.0,M,Fatigue,Migraine,1120.0,556.0,Yes,67,1676,Normal,1676.0,Minor
+V1017,2024-08-28,Ent,Dr. Banerjee,39.0,M,Cough,Flu,713.0,469.0,Yes,26,1097,Normal,1182.0,Young Adult
+V1052,2024-08-28,General,Dr. Ahmed,52.0,F,Unknown,Infection,1620.0,521.0,Yes,67,2141,High,2141.0,Middle Aged
+V1289,2024-08-29,General,Dr. Sharma,29.0,F,Rash,Fracture,1696.0,255.0,No,90,1951,Normal,1951.0,Young Adult
+V1075,2024-08-30,Dermatology,Dr. Rao,17.0,F,Headache,Migraine,1240.0,566.0,No,96,1806,Normal,1806.0,Minor
+V1286,2024-09-01,Orthopedics,Dr. Banerjee,41.0,M,Rash,Migraine,1744.0,238.0,No,88,1982,Normal,1982.0,Middle Aged
+V1062,2024-09-02,Dermatology,Dr. Rao,14.0,M,Fever,Fracture,337.0,513.0,Yes,112,850,Normal,850.0,Minor
+V1254,2024-09-04,Dermatology,Dr. Ahmed,11.0,M,Headache,Flu,1387.0,596.0,No,81,1983,Normal,1983.0,Minor
+V1121,2024-09-08,Cardiology,Dr. Ahmed,48.0,M,Headache,Migraine,898.0,645.0,Yes,11,1543,Normal,1543.0,Middle Aged
+V1258,2024-09-09,General,Dr. Banerjee,58.0,M,Rash,Hypertension,998.0,538.0,No,85,1536,Normal,1536.0,Middle Aged
+V1176,2024-09-11,Orthopedics,Dr. Rao,6.0,M,Cough,Fracture,1166.0,541.0,Yes,91,1264,Normal,1707.0,Minor
+V1228,2024-09-11,Orthopedics,Dr. Sharma,22.0,F,Allergy,Flu,260.0,164.0,No,114,424,Normal,424.0,Young Adult
+V1088,2024-09-11,General,Dr. Ahmed,68.0,F,Fever,Infection,541.0,722.0,Yes,60,1263,Normal,1263.0,Senior
+V1247,2024-09-11,Ent,Dr. Banerjee,10.0,F,Allergy,Fracture,1286.0,765.0,No,48,2051,High,2051.0,Minor
+V1064,2024-09-15,Cardiology,Dr. Meena,73.0,F,Pain,Hypertension,1166.0,275.0,Yes,62,1263,Normal,1441.0,Senior
+V1027,2024-09-15,General,Dr. Banerjee,83.0,F,Headache,Fracture,1274.0,522.0,No,45,1796,Normal,1796.0,Senior
+V1202,2024-09-16,Cardiology,Dr. Sharma,28.0,F,Cough,Hypertension,1543.0,449.0,Yes,92,1992,Normal,1992.0,Young Adult
+V1056,2024-09-17,General,Dr. Ahmed,35.0,M,Headache,Fracture,943.0,100.0,Yes,119,1043,Normal,1043.0,Young Adult
+V1248,2024-09-20,Orthopedics,Dr. Sharma,65.0,M,Pain,Hypertension,664.0,331.0,No,70,995,Normal,995.0,Senior
+V1048,2024-09-21,Cardiology,Dr. Rao,52.0,F,Allergy,Hypertension,1263.0,166.0,Yes,41,1429,Normal,1429.0,Middle Aged
+V1198,2024-09-23,General,Dr. Ahmed,22.0,F,Unknown,Fracture,1585.0,420.0,Yes,92,2005,High,2005.0,Young Adult
+V1095,2024-09-24,Orthopedics,Dr. Ahmed,26.0,F,Headache,Infection,1045.0,637.0,No,104,1682,Normal,1682.0,Young Adult
+V1102,2024-09-24,General,Dr. Sharma,28.0,F,Fatigue,Flu,975.0,255.0,No,70,1230,Normal,1230.0,Young Adult
+V1282,2024-09-24,General,Dr. Meena,20.0,F,Fatigue,Flu,213.0,645.0,No,73,858,Normal,858.0,Young Adult
+V1239,2024-09-25,General,Dr. Meena,18.0,F,Rash,Flu,1094.0,556.0,No,96,1650,Normal,1650.0,Minor
+V1273,2024-09-26,Orthopedics,Dr. Sharma,57.0,M,Fatigue,Infection,1904.0,168.0,Yes,92,2072,High,2072.0,Middle Aged
+V1171,2024-09-29,Ent,Dr. Banerjee,46.0,M,Allergy,Flu,1453.0,241.0,No,91,1694,Normal,1694.0,Middle Aged
+V1200,2024-09-29,Ent,Dr. Meena,29.0,M,Fever,Unknown,1945.0,391.0,No,118,2336,High,2336.0,Young Adult
+V1242,2024-10-02,Cardiology,Dr. Rao,83.0,M,Allergy,Hypertension,1494.0,540.0,No,33,2034,High,2034.0,Senior
+V1029,2024-10-05,Cardiology,Dr. Ahmed,6.0,M,Cough,Infection,1644.0,690.0,No,71,2334,High,2334.0,Minor
+V1272,2024-10-05,Cardiology,Dr. Banerjee,84.0,F,Pain,Fracture,757.0,768.0,Yes,14,1525,Normal,1525.0,Senior
+V1139,2024-10-06,General,Dr. Meena,19.0,M,Fatigue,Migraine,1166.0,458.0,Yes,7,1144,Normal,1624.0,Young Adult
+V1039,2024-10-07,Dermatology,Dr. Meena,42.0,M,Allergy,Flu,1547.0,522.0,No,91,2069,High,2069.0,Middle Aged
+V1006,2024-10-09,Orthopedics,Dr. Ahmed,29.0,F,Unknown,Migraine,1837.0,586.0,No,63,2423,High,2423.0,Young Adult
+V1020,2024-10-14,Cardiology,Dr. Rao,28.0,F,Fever,Flu,1459.0,355.0,No,47,1814,Normal,1814.0,Young Adult
+V1147,2024-10-15,General,Dr. Banerjee,14.0,M,Headache,Fracture,1471.0,469.0,No,113,2026,High,1940.0,Minor
+V1030,2024-10-16,Dermatology,Dr. Rao,82.0,F,Fever,Infection,853.0,217.0,No,119,1070,Normal,1070.0,Senior
+V1209,2024-10-16,Ent,Dr. Sharma,67.0,M,Cough,Hypertension,264.0,241.0,Yes,119,505,Normal,505.0,Senior
+V1260,2024-10-16,Ent,Dr. Rao,76.0,M,Rash,Fracture,1424.0,201.0,No,89,1625,Normal,1625.0,Senior
+V1144,2024-10-18,Ent,Dr. Rao,66.0,F,Pain,Migraine,1646.0,202.0,No,96,1848,Normal,1848.0,Senior
+V1117,2024-10-20,General,Dr. Ahmed,57.0,F,Pain,Fracture,1922.0,265.0,Yes,72,2187,High,2187.0,Middle Aged
+V1063,2024-10-21,Orthopedics,Dr. Banerjee,67.0,F,Rash,Infection,1214.0,545.0,No,5,1759,Normal,1759.0,Senior
+V1008,2024-10-24,General,Dr. Banerjee,62.0,M,Fatigue,Migraine,282.0,676.0,Yes,112,958,Normal,958.0,Senior
+V1136,2024-10-29,General,Dr. Sharma,29.0,M,Headache,Fracture,1179.0,746.0,Yes,57,1925,Normal,1925.0,Young Adult
+V1157,2024-10-29,Orthopedics,Dr. Banerjee,84.0,M,Headache,Hypertension,709.0,723.0,No,39,1432,Normal,1432.0,Senior
+V1040,2024-10-30,Dermatology,Dr. Ahmed,73.0,F,Headache,Flu,1698.0,538.0,Yes,6,2236,High,2236.0,Senior
+V1291,2024-11-01,Ent,Dr. Ahmed,61.0,M,Headache,Infection,482.0,665.0,No,36,1147,Normal,1147.0,Senior
+V1214,2024-11-02,Ent,Dr. Banerjee,49.0,F,Allergy,Migraine,1166.0,493.0,Yes,58,2321,High,1659.0,Middle Aged
+V1177,2024-11-02,Dermatology,Dr. Rao,59.0,M,Fever,Migraine,910.0,778.0,No,12,1688,Normal,1688.0,Middle Aged
+V1074,2024-11-02,Ent,Dr. Banerjee,11.0,F,Pain,Fracture,1629.0,606.0,No,48,2235,High,2235.0,Minor
+V1234,2024-11-07,General,Dr. Meena,78.0,M,Unknown,Migraine,1309.0,431.0,Yes,15,1740,Normal,1740.0,Senior
+V1175,2024-11-07,General,Dr. Banerjee,36.0,M,Cough,Flu,1163.0,789.0,Yes,104,1952,Normal,1952.0,Young Adult
+V1098,2024-11-11,Dermatology,Dr. Sharma,29.0,M,Allergy,Fracture,1052.0,303.0,Yes,39,1355,Normal,1355.0,Young Adult
+V1164,2024-11-12,Cardiology,Dr. Rao,54.0,M,Fever,Infection,1456.0,160.0,No,31,1616,Normal,1616.0,Middle Aged
+V1126,2024-11-18,General,Dr. Meena,69.0,M,Fatigue,Fracture,379.0,514.0,Yes,11,893,Normal,893.0,Senior
+V1137,2024-11-18,General,Dr. Sharma,55.0,F,Headache,Infection,380.0,744.0,No,108,1124,Normal,1124.0,Middle Aged
+V1203,2024-11-22,Cardiology,Dr. Sharma,54.0,F,Rash,Unknown,568.0,665.0,No,15,1233,Normal,1233.0,Middle Aged
+V1229,2024-11-22,Ent,Dr. Sharma,40.0,M,Cough,Flu,976.0,556.0,Yes,109,1532,Normal,1532.0,Young Adult
+V1275,2024-11-23,General,Dr. Meena,36.0,F,Allergy,Fracture,1889.0,616.0,No,71,2505,High,2505.0,Young Adult
+V1026,2024-11-23,Cardiology,Dr. Meena,15.0,F,Rash,Flu,1886.0,106.0,Yes,115,1992,Normal,1992.0,Minor
+V1163,2024-11-25,Orthopedics,Dr. Banerjee,56.0,M,Fever,Infection,1166.0,644.0,Yes,63,1106,Normal,1810.0,Middle Aged
+V1268,2024-11-26,Orthopedics,Dr. Rao,81.0,M,Headache,Flu,550.0,603.0,Yes,15,1153,Normal,1153.0,Senior
+V1232,2024-11-26,General,Dr. Rao,37.0,M,Cough,Hypertension,1401.0,737.0,No,88,2138,High,2138.0,Young Adult
+V1079,2024-11-28,Ent,Dr. Ahmed,71.0,M,Rash,Flu,536.0,154.0,Yes,75,690,Normal,690.0,Senior
+V1037,2024-12-03,Cardiology,Dr. Ahmed,15.0,F,Fever,Fracture,1824.0,665.0,No,88,2489,High,2489.0,Minor
+V1084,2024-12-04,Cardiology,Dr. Meena,81.0,M,Headache,Fracture,745.0,533.0,No,51,1278,Normal,1278.0,Senior
+V1128,2024-12-06,Ent,Dr. Sharma,59.0,M,Allergy,Hypertension,1217.0,437.0,No,106,1654,Normal,1654.0,Middle Aged
+V1045,2024-12-07,Orthopedics,Dr. Sharma,46.0,F,Rash,Hypertension,1683.0,523.0,Yes,59,2206,High,2206.0,Middle Aged
+V1023,2024-12-08,General,Dr. Sharma,6.0,F,Unknown,Infection,514.0,277.0,Yes,21,791,Normal,791.0,Minor
+V1278,2024-12-09,Dermatology,Dr. Rao,59.0,M,Headache,Flu,237.0,653.0,Yes,25,890,Normal,890.0,Middle Aged
+V1035,2024-12-10,Cardiology,Dr. Banerjee,25.0,M,Pain,Fracture,964.0,702.0,Yes,105,1666,Normal,1666.0,Young Adult
+V1250,2024-12-13,Orthopedics,Dr. Ahmed,23.0,F,Fatigue,Infection,1164.0,169.0,No,100,1333,Normal,1333.0,Young Adult
+V1124,2024-12-14,Orthopedics,Dr. Banerjee,59.0,M,Fatigue,Hypertension,1820.0,187.0,No,115,2007,High,2007.0,Middle Aged
+V1100,2024-12-15,Cardiology,Dr. Meena,26.0,M,Fever,Flu,1224.0,669.0,Yes,105,1893,Normal,1893.0,Young Adult
+V1223,2024-12-16,Cardiology,Dr. Ahmed,28.0,F,Allergy,Hypertension,1475.0,170.0,No,51,1645,Normal,1645.0,Young Adult
+V1122,2024-12-17,Ent,Dr. Meena,77.0,M,Headache,Infection,1910.0,579.0,No,16,2489,High,2489.0,Senior
+V1235,2024-12-17,Cardiology,Dr. Rao,46.0,M,Rash,Fracture,1497.0,404.0,No,16,1901,Normal,1901.0,Middle Aged
+V1067,2024-12-18,Cardiology,Dr. Meena,79.0,M,Rash,Hypertension,1668.0,225.0,No,34,1893,Normal,1893.0,Senior
+V1287,2024-12-18,Ent,Dr. Sharma,78.0,M,Fever,Migraine,1007.0,475.0,No,29,1482,Normal,1482.0,Senior
+V1192,2024-12-19,Orthopedics,Dr. Meena,29.0,F,Allergy,Unknown,1966.0,771.0,No,36,2737,High,2737.0,Young Adult
+V1014,2024-12-20,General,Dr. Meena,42.0,M,Rash,Infection,1115.0,620.0,Yes,53,1735,Normal,1735.0,Middle Aged
+V1227,2024-12-20,Dermatology,Dr. Banerjee,37.0,F,Pain,Fracture,458.0,750.0,Yes,95,1208,Normal,1208.0,Young Adult
+V1140,2024-12-21,Dermatology,Dr. Ahmed,13.0,M,Pain,Infection,701.0,743.0,No,108,1444,Normal,1444.0,Minor
+V1096,2024-12-23,General,Dr. Ahmed,31.0,M,Fever,Infection,1152.0,614.0,No,15,1766,Normal,1766.0,Young Adult
+V1059,2024-12-24,Ent,Dr. Meena,61.0,F,Allergy,Flu,1041.0,326.0,Yes,28,1367,Normal,1367.0,Senior
+V1274,2024-12-25,Orthopedics,Dr. Meena,20.0,F,Headache,Unknown,1715.0,738.0,Yes,36,2453,High,2453.0,Young Adult
+V1259,2024-12-29,Dermatology,Dr. Ahmed,44.0,M,Pain,Infection,722.0,103.0,Yes,52,825,Normal,825.0,Middle Aged
+V1141,2024-12-30,Ent,Dr. Banerjee,49.0,M,Rash,Flu,1166.0,346.0,Yes,61,652,Normal,1512.0,Middle Aged
+V1120,2024-12-30,Dermatology,Dr. Rao,20.0,F,Unknown,Hypertension,1206.0,343.0,Yes,94,1549,Normal,1549.0,Young Adult
+V1047,2024-12-31,Orthopedics,Dr. Ahmed,38.0,F,Rash,Infection,1500.0,768.0,Yes,30,2268,High,2268.0,Young Adult
+V1092,2024-12-31,Orthopedics,Dr. Sharma,55.0,F,Fever,Flu,1166.0,383.0,Yes,66,1607,Normal,1549.0,Middle Aged
